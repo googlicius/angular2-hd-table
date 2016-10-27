@@ -46,6 +46,7 @@ import { NgbPaginationConfig } from '@ng-bootstrap/ng-bootstrap';
     template: `
         <hd-table [table]="table"></hd-table>
     `
+    providers: [NgbPaginationConfig, HdTableService,...]
 })
 export class YourComponent()
 {
