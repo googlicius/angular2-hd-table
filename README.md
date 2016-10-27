@@ -1,5 +1,5 @@
 # angular2-hd-table
-This module help to build quickly a table come with many features like: filtering, sorting, pagination,... in client or server side. Full of extendable, you can cumstom everything you want in a beautiful way.
+This module help to build quickly a table come with many features like: filtering, sorting, pagination,... in client or server side. Full of extendable, you can custom everything you want in a beautiful way.
 ### This library currently under active development.
 ---
 ## Dependencies:
