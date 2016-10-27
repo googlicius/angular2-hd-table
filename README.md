@@ -8,7 +8,7 @@ This module help to build quickly a table come with many features like: filterin
 
 ## Installation:
 ```shell 
-npm require hd-table --save
+npm install hd-table --save
 ```
 ## Configuration
 import ``HdTableModule`` to the top-level module in your application:
